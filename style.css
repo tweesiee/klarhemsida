@@ -1,0 +1,104 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: linear-gradient(#300000, #330000);
+
+}
+
+.yolo {
+	text-align: center;
+	font-family: 'Baloo Tammudu', cursive;
+	background-color: black;
+	padding: 1px;
+	color: white;
+	opacity: 0.7;
+	font-size: 40px;
+	margin: 0px;
+}
+
+#farg {
+	color: red;
+}
+
+#fargg {
+	color: red;
+}
+
+.sida1 {
+	text-decoration: none;
+	color: white;
+	margin: 0px 20px;
+
+}
+
+#meny {
+	margin: 0px;
+	margin-bottom: 30px;
+	font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+#meny a:hover {
+	color: #CCC;
+}
+
+
+#header {
+	margin: 0px;
+}
+
+#rubrik {
+	border: 0px solid #CC0000;
+	font-family: 'Encode Sans Condensed', sans-serif;
+	text-align: center;
+	padding: 20px;
+	color: white;
+	font-size: 40px;
+	background: black;
+	opacity: 0.8;
+	margin-top: 20px;
+	min-height: 899px;
+}
+
+#bild1 {
+	position: absolute;
+	top: 450px;
+	left: 50px;
+}
+
+.text1 {
+	text-align: left;
+	position: absolute;
+	top: 450px;
+	left: 380px;
+	color: #FFF;
+	width: 500px;
+	font-size: 30px;
+	white-space: nowrap;
+}
+
+#bild2 {
+	position: absolute;
+	top: 825px;
+	right: 50px;
+}
+
+.text2 {
+	text-align: left;
+	position: absolute;
+	top: 800px;
+	right: 275px;
+	color: #FFF;
+	width: 500px;
+	font-size: 30px;
+	white-space: nowrap;
+}
+
+.text3 {}
+
+.video {
+	position: absolute;
+	top: 825px;
+	left: 50px;
+	width: 500px;
+	height: 300px;
+}
